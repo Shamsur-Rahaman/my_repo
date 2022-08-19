@@ -1,0 +1,42 @@
+.container{
+    margin: 20px 450px 0px 450px;
+    height: 500px;
+    width: 30%;
+    background-color: gray;
+    
+}
+.container_item{
+    padding: 15px;
+    background-color: white;
+    border: .5px solid gray;
+    box-shadow: 2px;
+}
+.banner{
+    text-overflow: hidden;
+    height: 200px;
+    width: 100%;
+}
+.blog_content{
+    margin: 20px;
+}
+.blog_author{
+    text-shadow: 1px;
+}
+.author{
+    color: rgb(109, 109, 235);
+    font-weight: bold;
+    text-decoration: none;
+}
+.blog_para{
+    font-size: 18px;
+}
+.button{
+    border-radius: 25px;
+    border-color: 1px solid rgba( 51, 119, 148, 0.76);
+    border-style: none;
+    background-color: rgba(51, 119, 148, 0.76);
+    color: white;
+    padding: 10px 10px 10px 10px;
+    font-weight: 800;
+    font-size: 10px;
+}
